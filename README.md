@@ -104,6 +104,15 @@ Using the three selected features (`MZ224.09159`, `MZ437.0239`, `MZ245.24466`), 
 * Filter, Wrapper, and Embedded methods offer distinct advantages in identifying relevant features.
 * Combining features selected by different approaches can produce a compact, high-performing feature subset.
 
+We compared **Feature Selection** and **Feature Extraction** methods for high-dimensional biomedical data.
+
+Our results showed that **Feature Selection was more effective in our experiments**, as it allowed us to:
+
+- Considerably reduce the number of features.
+- Retain the most informative original features.
+- Achieve the **highest classification accuracy**.
+
+Overall, Feature Selection provided a **smaller and more informative feature subset while maintaining better classification performance**.
 ---
 
 
