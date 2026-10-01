@@ -123,3 +123,14 @@ Overall, Feature Selection provided a **smaller and more informative feature sub
 * PCA & SMOTE
 * Feature Selection & Statistical Analysis
 * Biomedical Data Analysis
+
+
+# Author
+
+**Hamdane Salsabil & Benaissa Roumeissa**
+
+Master 1 – SDIA
+
+2025 / 2026
+
+**Team Project**
